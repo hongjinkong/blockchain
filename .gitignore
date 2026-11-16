@@ -1,0 +1,14 @@
+# Go 설치 파일 · 다운로드 로그
+*.tar.gz
+*.tar.gz.*
+wget-log*
+
+# 빌드 결과물
+go-blockchain
+*.exe
+
+# Python
+__pycache__/
+.venv/
+
+.DS_Store
